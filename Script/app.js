@@ -296,5 +296,3 @@ function changeColor(colorID, rgb, amount) {   // Changes a color by a given amo
 function rand(min, max) {   // Randomization function I totaly made myself
 	return Math.round(Math.random() * (max - min) + min);
 }
-
-console.log("Fuck Lövnäs");
